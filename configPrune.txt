@@ -1,0 +1,5 @@
+{
+  "comment" : "This file is used to set the time, in days, at which certain files are pruned.",
+  "/pix/atex_api/log/" : "1",
+  "/pix/truckstop_api/log/" : "4"
+}
